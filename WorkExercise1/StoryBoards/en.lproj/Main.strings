@@ -1,0 +1,27 @@
+
+/* Class = "UINavigationItem"; title = "NEWS FEED"; ObjectID = "7L2-Ed-K47"; */
+"7L2-Ed-K47.title" = "NEWS FEED";
+
+/* Class = "UILabel"; text = "CBNBC"; ObjectID = "8hG-gS-570"; */
+"8hG-gS-570.text" = "CBNBC";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "Ar7-mg-rII"; */
+"Ar7-mg-rII.title" = "Back";
+
+/* Class = "UILabel"; text = "Author"; ObjectID = "I3G-FI-dOm"; */
+"I3G-FI-dOm.text" = "Author";
+
+/* Class = "UILabel"; text = "Headline fg dfgdf dfg dfg dfgdd "; ObjectID = "TSX-WN-XcB"; */
+"TSX-WN-XcB.text" = "Headline fg dfgdf dfg dfg dfgdd ";
+
+/* Class = "UILabel"; text = "main new feed lines : asda asd asd ad asdasdasd asda sda dasdasdasdasd asd adfdf fgdf dfg dfg dfgdfgfdg sfg sger eggghjkk"; ObjectID = "dwQ-d1-Utu"; */
+"dwQ-d1-Utu.text" = "main new feed lines : asda asd asd ad asdasdasd asda sda dasdasdasdasd asd adfdf fgdf dfg dfg dfgdfgfdg sfg sger eggghjkk";
+
+/* Class = "UILabel"; text = "main new feed lines : asda asd asd ad asdasdasd asda sda dasdasdasdasd asd a"; ObjectID = "eLI-yP-yyk"; */
+"eLI-yP-yyk.text" = "main new feed lines : asda asd asd ad asdasdasd asda sda dasdasdasdasd asd a";
+
+/* Class = "UILabel"; text = "Author"; ObjectID = "ezg-ks-eJi"; */
+"ezg-ks-eJi.text" = "Author";
+
+/* Class = "UILabel"; text = "Headline fg dfgdf dfg dfg dfgdd "; ObjectID = "tBI-EE-eyv"; */
+"tBI-EE-eyv.text" = "Headline fg dfgdf dfg dfg dfgdd ";
